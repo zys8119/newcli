@@ -1,0 +1,24 @@
+{
+  "name": "newcli",
+  "version": "0.0.3",
+  "description": "初始化自定义脚手架",
+  "main": "index.js",
+  "bin": "bin/newcli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zys8119/newcli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zys8119/newcli/issues"
+  },
+  "homepage": "https://github.com/zys8119/newcli#readme",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "shelljs": "^0.7.7"
+  }
+}
